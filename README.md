@@ -3,6 +3,8 @@
   <img alt="Anower Hossain, Support Manager at weDevs. 12,000+ ticket replies since 2022, 7,500+ customers helped by email, 3,500+ live chats, 500+ WordPress.org replies, 800+ issues filed" src="assets/card-light.svg" width="100%">
 </picture>
 
+**🌐 [anower16.github.io](https://anower16.github.io)**: my portfolio, with the full story and a live demo of my support workflow.
+
 I lead customer support for the weDevs WordPress and SaaS products. My job is to make support faster and more accurate, so customers get exact answers, developers get bug reports they can act on, and fewer customers churn.
 
 ### Journey
@@ -37,4 +39,4 @@ I lead customer support for the weDevs WordPress and SaaS products. My job is to
 
 ---
 
-<sub>Numbers come from the weDevs monthly reports (2022–23), FreeScout productivity reports (Sep 2023 – Nov 2026), WordPress.org and GitHub. Happy to talk about support operations, QA, and AI in support: [LinkedIn](https://www.linkedin.com/in/mdanowerhossain/).</sub>
+<sub>Numbers come from the weDevs monthly reports (2022–23), FreeScout productivity reports (Sep 2023 – Nov 2026), WordPress.org and GitHub. Happy to talk about support operations, QA, and AI in support: [Website](https://anower16.github.io) · [LinkedIn](https://www.linkedin.com/in/mdanowerhossain/) · [Email](mailto:manikanower16@gmail.com).</sub>
