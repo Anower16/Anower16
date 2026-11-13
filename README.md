@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/card-dark.svg">
-  <img alt="Anower Hossain, Support Manager at weDevs. 12,000+ ticket replies since 2022, 7,200+ customers helped by email, 2,100+ live chats, 509 WordPress.org replies, 151 issues filed in 2026." src="assets/card-light.svg" width="100%">
+  <img alt="Anower Hossain, Support Manager at weDevs. 12,000+ ticket replies since 2022, 7,500+ customers helped by email, 3,500+ live chats, 500+ WordPress.org replies, 800+ issues filed" src="assets/card-light.svg" width="100%">
 </picture>
 
 I lead customer support for the weDevs WordPress and SaaS products. My job is to make support faster and more accurate, so customers get exact answers, developers get bug reports they can act on, and fewer customers churn.
