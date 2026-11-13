@@ -24,11 +24,10 @@ I lead customer support for the weDevs WordPress and SaaS products. My job is to
 
 ### Products
 
-![WP ERP](https://img.shields.io/badge/WP_ERP-c9dbef?style=flat-square) ![WP Project Manager](https://img.shields.io/badge/WP_Project_Manager-c9dbef?style=flat-square) ![WP User Frontend](https://img.shields.io/badge/WP_User_Frontend-c9dbef?style=flat-square) ![weDocs](https://img.shields.io/badge/weDocs-c9dbef?style=flat-square) ![HappyAddons](https://img.shields.io/badge/HappyAddons-c9dbef?style=flat-square)
-![weMail](https://img.shields.io/badge/weMail-cfe3cc?style=flat-square) ![Subscribe2](https://img.shields.io/badge/Subscribe2-cfe3cc?style=flat-square)
-![Klasio](https://img.shields.io/badge/Klasio-efe2c8?style=flat-square) ![FlyCommerce](https://img.shields.io/badge/FlyCommerce-efe2c8?style=flat-square) ![AppSero](https://img.shields.io/badge/AppSero-efe2c8?style=flat-square)
-
-<sub>Blue: WordPress plugins · Green: email · Sand: SaaS</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/products-dark.svg">
+  <img alt="Products I support: WordPress plugins WP ERP, WP Project Manager, WP User Frontend, weDocs, HappyAddons; email products weMail, Subscribe2; SaaS Klasio, FlyCommerce, AppSero." src="assets/products-light.svg" width="100%">
+</picture>
 
 ### Works with
 
