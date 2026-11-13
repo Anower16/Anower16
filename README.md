@@ -25,8 +25,8 @@ I lead customer support for the weDevs WordPress and SaaS products. My job is to
 ### Products
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/products-dark.svg">
-  <img alt="Products I support: WordPress plugins WP ERP, WP Project Manager, WP User Frontend, weDocs, HappyAddons; email products weMail, Subscribe2; SaaS Klasio, FlyCommerce, AppSero." src="assets/products-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/products-card-dark.svg">
+  <img alt="Products I support: WordPress plugins WP ERP, WP Project Manager, WP User Frontend, weDocs, HappyAddons; email products weMail, Subscribe2; SaaS Klasio, FlyCommerce, AppSero." src="assets/products-card-light.svg" width="100%">
 </picture>
 
 ### Works with
